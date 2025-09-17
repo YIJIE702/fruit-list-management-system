@@ -1,0 +1,14 @@
+c:\users\chanzhenhui\documents\visual studio 2013\Projects\Fruit\Fruit\bin\Debug\Fruit.exe.config
+c:\users\chanzhenhui\documents\visual studio 2013\Projects\Fruit\Fruit\obj\Debug\Fruit.frmFruit.resources
+c:\users\chanzhenhui\documents\visual studio 2013\Projects\Fruit\Fruit\obj\Debug\Fruit.Properties.Resources.resources
+c:\users\chanzhenhui\documents\visual studio 2013\Projects\Fruit\Fruit\obj\Debug\Fruit.csproj.GenerateResource.Cache
+c:\users\chanzhenhui\documents\visual studio 2013\Projects\Fruit\Fruit\bin\Debug\Fruit.exe
+c:\users\chanzhenhui\documents\visual studio 2013\Projects\Fruit\Fruit\bin\Debug\Fruit.pdb
+c:\users\chanzhenhui\documents\visual studio 2013\Projects\Fruit\Fruit\obj\Debug\Fruit.exe
+c:\users\chanzhenhui\documents\visual studio 2013\Projects\Fruit\Fruit\obj\Debug\Fruit.pdb
+C:\Users\User\Desktop\Fruit\Fruit\bin\Debug\Fruit.exe.config
+C:\Users\User\Desktop\Fruit\Fruit\obj\Debug\Fruit.exe
+C:\Users\User\Desktop\Fruit\Fruit\obj\Debug\Fruit.pdb
+C:\Users\User\Desktop\University\SEM 3\EKT 224 - Algorithm and Data Structures\Algorithm Assignment 1\Fruit\Fruit\bin\Debug\Fruit.exe.config
+C:\Users\User\Desktop\University\SEM 3\EKT 224 - Algorithm and Data Structures\Algorithm Assignment 1\Fruit\Fruit\obj\Debug\Fruit.exe
+C:\Users\User\Desktop\University\SEM 3\EKT 224 - Algorithm and Data Structures\Algorithm Assignment 1\Fruit\Fruit\obj\Debug\Fruit.pdb
