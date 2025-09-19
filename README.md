@@ -62,13 +62,13 @@ The system supports operations such as **insertion, deletion, editing, saving, c
 
 ---
 
-4. 📈 Limitations
+## 📈 Limitations
 - Insertion & Deletion: Slower in worst cases (O(n)) due to ArrayList-like shifting.
 - Not Optimized for Large Data: Works best for small to medium datasets.
 
 ---
 
-🔮 Possible Enhancements
+## 🔮 Possible Enhancements
 - Switch from List<T> to LinkedList for faster insert/delete (O(1)).
 - Add search functionality (binary search).
 - Improve UI/UX with modern .NET (WPF or .NET MAUI).
